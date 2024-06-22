@@ -1,0 +1,27 @@
+﻿  HWID-grabber.cpp
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(94,30): warning C4244: 'initializing': conversion from '_Elem' to 'char', possible loss of data
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(94,30): warning C4244:         with
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(94,30): warning C4244:         [
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(94,30): warning C4244:             _Elem=wchar_t
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(94,30): warning C4244:         ]
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(176,34): warning C4244: 'initializing': conversion from '_Elem' to 'char', possible loss of data
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(176,34): warning C4244:         with
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(176,34): warning C4244:         [
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(176,34): warning C4244:             _Elem=wchar_t
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(176,34): warning C4244:         ]
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(204,34): warning C4244: 'initializing': conversion from '_Elem' to 'char', possible loss of data
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(204,34): warning C4244:         with
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(204,34): warning C4244:         [
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(204,34): warning C4244:             _Elem=wchar_t
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(204,34): warning C4244:         ]
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(301,39): warning C4244: 'initializing': conversion from '_Elem' to 'char', possible loss of data
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(301,39): warning C4244:         with
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(301,39): warning C4244:         [
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(301,39): warning C4244:             _Elem=wchar_t
+D:\repos\HWID-grabber\HWID-grabber\HWID-grabber.cpp(301,39): warning C4244:         ]
+  Generating code
+  1 of 201 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HWID-grabber.vcxproj -> D:\repos\HWID-grabber\x64\Release\HWID-grabber.exe
